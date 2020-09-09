@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650026324081",
+    "firebase_url": "https://semartparking.firebaseio.com",
+    "project_id": "semartparking",
+    "storage_bucket": "semartparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650026324081:android:fb92e98400c06059da4bd0",
+        "android_client_info": {
+          "package_name": "com.hichem.semartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650026324081-5ahl7fkmqeb51pbkutd9j0t6tqhi9t64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hichem.semartparking",
+            "certificate_hash": "3f0fbdb847c5594434d3eb6fb82adb7172c352c8"
+          }
+        },
+        {
+          "client_id": "650026324081-kbavcpk5s7353g6f6qj4mgmiljgitoek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxlsnAYnWu1KLn3xpK-ITbDhTlpyl2W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650026324081-kbavcpk5s7353g6f6qj4mgmiljgitoek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
